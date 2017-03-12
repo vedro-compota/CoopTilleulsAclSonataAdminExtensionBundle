@@ -18,7 +18,7 @@ use Symfony\Component\Security\Core\Role\Role;
 use Symfony\Component\Security\Core\Role\RoleHierarchy;
 use Symfony\Component\Security\Core\Role\RoleInterface;
 use Symfony\Component\Security\Core\SecurityContextInterface;
-use Symfony\Component\Security\Acl\Domain\UserSecurityIdentity;
+use Symfony\Component\Security\Acl\Domain\UserSecurityIdentity; 
 
 /**
  * Admin extension filtering the list
